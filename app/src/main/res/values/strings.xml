@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="add_favourite">Add favourite</string>
+    <string name="search">Search</string>
+    <string name="something_goes_wrong">Something goes wrong...</string>
+    <string name="the_result_is_empty">The result is empty</string>
+</resources>
